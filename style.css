@@ -1,0 +1,9 @@
+.logo-img {
+  height: 40px;          /* */
+  width: auto;           /* */
+  display: block;
+}
+
+.logo {
+  line-height: 0;        /
+}
